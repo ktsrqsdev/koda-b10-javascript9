@@ -1,0 +1,27 @@
+{
+  "name": "koda-b10-javascript9",
+  "version": "1.0.0",
+  "description": "Program JavaScript ini mengambil data pengguna dari [JSONPlaceholder](https://jsonplaceholder.typicode.com/users), kemudian mengubah seluruh alamat email menjadi huruf kecil. Program membandingkan empat pendekatan, yaitu:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktsrqsdev/koda-b10-javascript9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ktsrqsdev/koda-b10-javascript9/issues"
+  },
+  "homepage": "https://github.com/ktsrqsdev/koda-b10-javascript9#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0"
+  }
+}
